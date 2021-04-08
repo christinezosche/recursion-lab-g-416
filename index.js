@@ -24,6 +24,6 @@ function printString(myString) {
     }
   }
   reverse(myString)
-    console.log(newString.join(''))
+   return newString.join('')
 
   }
